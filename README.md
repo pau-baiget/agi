@@ -1,6 +1,6 @@
 # Android GPU Inspector
 
-Builds: 
+![]() 
 <img alt="Linux" src="kokoro/img/linux.png" width="20px" height="20px" hspace="2px"/>
 [![Linux Build Status](https://agi-build.storage.googleapis.com/badges/build_status_linux.svg)](https://agi-build.storage.googleapis.com/badges/build_result_linux.html)
 <img alt="MacOS" src="kokoro/img/macos.png" width="20px" height="20px" hspace="2px"/>
